@@ -6,9 +6,6 @@
     };
     SuiteEncodedTextKey = "@%;Ue8E2s[E5edRV";
     helpedSuitesInfo =     (
-                {
-            filePath = "../Downloads/test/test-suite-1557/test-1557.suite";
-        }
     );
     helperSuitesInfo =     (
     );
