@@ -4,12 +4,12 @@
     );
     ScriptMetaData =     {
     };
-    SuiteEncodedTextKey = "TsW6Nr.:E:P&C`{C";
+    SuiteEncodedTextKey = "@%;Ue8E2s[E5edRV";
     helpedSuitesInfo =     (
+                {
+            filePath = "../Downloads/test/test-suite-1557/test-1557.suite";
+        }
     );
     helperSuitesInfo =     (
-                {
-            filePath = "<Suite_Root>/helperjohnb-1557.suite";
-        }
     );
 }
