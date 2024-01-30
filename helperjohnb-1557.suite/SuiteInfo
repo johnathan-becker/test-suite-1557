@@ -1,0 +1,13 @@
+﻿{
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    helpedSuitesInfo =     (
+                {
+            filePath = "../Downloads/test/test-suite-1557/test-1557.suite";
+        }
+    );
+    helperSuitesInfo =     (
+    );
+}
