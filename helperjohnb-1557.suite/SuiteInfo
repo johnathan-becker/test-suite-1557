@@ -1,0 +1,21 @@
+﻿{
+    EPVersionNumber = 202401030347;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    SuiteEncodedTextKey = "(#.RD%AK{+fDoIr*";
+    helpedSuitesInfo =     (
+                {
+            filePath = "../Downloads/test/test-suite-1557/test-1557.suite";
+        },
+                {
+            filePath = "../Downloads/test/test-suite-1557/test-1557.suite";
+        },
+                {
+            filePath = "../Downloads/test/test-suite-1557/test-1557.suite";
+        }
+    );
+    helperSuitesInfo =     (
+    );
+}
