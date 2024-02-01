@@ -8,5 +8,8 @@
     helpedSuitesInfo =     (
     );
     helperSuitesInfo =     (
+                {
+            filePath = "<Suite_Root>/helperjohnb-test1557.suite";
+        }
     );
 }
